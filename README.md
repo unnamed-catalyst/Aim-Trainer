@@ -1,5 +1,5 @@
 # Naef's Aim Trainer
-An aim trainer game I made using Pygame, which is a set of modules written in the Python programming language, used for writing video games. Most of the images for the game were made using the sprite editor, Aseprite.
+An aim trainer I made using Pygame, which is a set of modules written in the Python programming language, used for writing video games. Most of the images for the game were made using the sprite editor, Aseprite.
 
 ## How to install
 (Instructions for Windows)
