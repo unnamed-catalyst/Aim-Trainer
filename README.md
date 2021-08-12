@@ -14,11 +14,10 @@ The game is just like any other aim trainer. Multiple balls appear on the screen
 
 ## Screenshots and GIFs
 
-![Aim Trainer 1](https://user-images.githubusercontent.com/59618797/129113016-9c48cc21-9b06-4cb6-8bcc-478ce26d4c75.png)
+![Aim Trainer 1](https://user-images.githubusercontent.com/59618797/129236470-d8fdc7df-e4bc-46f8-ba55-fcb3cf268f0f.png)
 
-![Aim Trainer 2](https://user-images.githubusercontent.com/59618797/129113023-2e3e03f6-b27f-49ab-8197-4d81baf25e43.png)
+![Aim Trainer 2](https://user-images.githubusercontent.com/59618797/129236674-97be4009-9e6e-46b1-a376-7be3ac171bb2.png)
 
-![Aim Trainer 3](https://user-images.githubusercontent.com/59618797/129113026-94f1a3bd-badf-4a14-aebc-3c5c4a822d4c.gif)
+![Aim Trainer 3](https://user-images.githubusercontent.com/59618797/129236481-224adabf-8235-4f38-bb35-1535c25d60f6.gif)
 
-![Aim Trainer 4](https://user-images.githubusercontent.com/59618797/129113029-ee159a35-fd60-42b8-bdd3-b8cfbec89b7b.png)
-
+![Aim Trainer 4](https://user-images.githubusercontent.com/59618797/129236484-cc25771c-f1b1-476c-bb03-d796321b7529.png)
